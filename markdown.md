@@ -1,12 +1,12 @@
-#Ejercicio 2
+# Ejercicio 2
 
-##Introducción a Markdown
+## Introducción a Markdown
 Aprenderemos la **sintaxis básica** del lenguaje de marcas *Markdown* para estructurar la información en nuestros documentos. 
 ---
-###Párrafo con formato
+### Párrafo con formato
 Este es un párrafo donde algunas palabras están en **negrita**, otras en *cursiva*, y otras en `código`.
 ---
-###Ejemplo de código
+### Ejemplo de código
 `java
 public class Suma {
     public static void main(String[] args) {
@@ -17,26 +17,26 @@ public class Suma {
     }
 }`
 ---
-###Lista ordenada
+### Lista ordenada
 1. Títulos
 2. Cursivas
 3. Negritas
 ---
-###Lista desordenada
+### Lista desordenada
 * Citas
 * Enlaces
 * Imágenes
 ---
-###Enlace a URL externa
+### Enlace a URL externa
 [Repositorio GitHub](https://github.com/Jesjimrod/AprendiendoGitHub)
 ---
-###Enlace a otro fichero Markdown
+### Enlace a otro fichero Markdown
 [Otro Markdown](README.md)
 ---
-###Imagen
+### Imagen
 ![Pollito](https://www.freepik.es/fotos-vectores-gratis/pollito-dibujo)
 ---
-###Tabla
+### Tabla
 | Mensaje | Operación | Salida  |
 |---------|-----------|---------|
 | Hola    | Suma      | Hola 5  |
